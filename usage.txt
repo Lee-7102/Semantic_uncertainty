@@ -1,0 +1,5 @@
+chmod +x scripts/train_scannet.sh
+./scripts/train_scannet.sh
+python scripts/eval_scannet.py
+
+python render_uncertainty.py -m /home/liyiqian/main/Semantic_uncertainty/result_fisherrf/scannet/scene0200_00 --override_idxs None --current
