@@ -1,0 +1,6 @@
+[submodule "FisherRF"]
+	path = FisherRF
+	url = https://github.com/JiangWenPL/FisherRF.git
+[submodule "OpenGaussian"]
+	path = OpenGaussian
+	url = https://github.com/yanmin-wu/OpenGaussian.git
