@@ -33,7 +33,8 @@ build/
 *.npy     
 *.bin 
 *.npz
-result_openGaussian/scannet/scene0200_00/train_process       
+result_openGaussian/scannet/scene0200_00/train_process
+result_fisherrf/*/*/eval  
 
 data/
 *.csv.gz
